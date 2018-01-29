@@ -1,7 +1,7 @@
 
 #julia golder
 #1/29/18
-#gradeCalculator.py
+#gradeCalculator.py - how to calculate your letter grade
 
 num = float(input('Enter a number: '))
 
