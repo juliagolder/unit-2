@@ -9,12 +9,12 @@ input('Enter your name: ')
 num = randint(1,5)
 
 if num == 1:
-    print('If I had a face like yours, I'd sue my parents')
+    print('If I had a face like yours, Id sue my parents')
 elif num == 2:
-    print('')
+    print('I guess you prove that even god makes mistakes sometimes')
 elif num == 3:
-    print('')
+    print('I dont know what makes you so stupid, but it really works.')
 elif num == 4:
-    print('')
+    print('Roses are red violets are blue, God made me pretty, what happened to you?')
 else:
-    print('')
+    print('Please shut your mouth when you’re talking to me.')
