@@ -25,6 +25,7 @@ else:
     ('Neither word has p')
     
 print('Enter 2 numbers that add up to 12')
+
 num1 = int(input('Enter the first number:'))
 num2 = int(input('Enter the second number:'))
 
